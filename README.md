@@ -1,10 +1,10 @@
-## Co-seismic deformation of the 2021 Mw7.4 Maduo earthquake
+## Co-seismic deformation of the 2021 Mw 7.4 Maduo earthquake
 
-This repo contains notebooks for the 3D co-seismic deformation of the 2021 Mw7.4 Maduo earthquake in Qinghai, China ([USGS event page](https://earthquake.usgs.gov/earthquakes/eventpage/us7000e54r/executive)) from Sentinel-1 SAR data. It's used in the following paper:
+This repo contains notebooks for the 3D co-seismic deformation of the [2021 Mw 7.4 Maduo earthquake in Qinghai, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000e54r/executive) from Sentinel-1 SAR data. It's used in the following paper:
 
-+ Xu, L., Meng, L., Ji, C., Yunjun, Z., Fielding, E. J., Zinke, R., Bao, H., Sub-Shear Rupture on Bifurcating Faults: Kinematics and Dynamics of the 2021 Mw7.4 Maduo Earthquake in Qinghai, _Journal of Geophysical Research: Solid Earth_, doi:[10.1002/essoar.10511643.1](https://doi.org/10.1002/essoar.10511643.1). [under review]
++ Xu, L., Yunjun, Z., Ji, C., Meng, L., Fielding, E. J., Zinke, R., & Bao, H. (2023). Understanding the rupture kinematics and slip model of the 2021 Mw 7.4 Maduo earthquake: A bilateral event on bifurcating faults. _Journal of Geophysical Research: Solid Earth, 128_(4), e2022JB025936, doi:[10.1029/2022JB025936](https://doi.org/10.1029/2022JB025936).
 
-### Data (Zenodo)
+### Data ([Zenodo](https://zenodo.org/record/7170329))
 
 Two pairs of Sentinel-1 SLCs (from ascending track 99 and descending track 106; both acquired at 20 - 26 May 2021) are used to derive the deformation in range and azimuth directions, using both InSAR and SAR speckle tracking techniques.
 
