@@ -1,6 +1,10 @@
-## Co-seismic deformation of the 2021 Mw 7.4 Maduo earthquake
+[![Language](https://img.shields.io/badge/python-3.6%2B-blue?style=flat-square)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](https://github.com/yunjunz/2021-Maduo-EQ/blob/main/LICENSE)
+[![Citation](https://img.shields.io/badge/DOI-10.1029%2F2022JB025936-blue?style=flat-square)](https://doi.org/10.1029/2022JB025936)
 
-This repo contains notebooks for the 3D co-seismic deformation of the [2021 Mw 7.4 Maduo earthquake in Qinghai, China](https://earthquake.usgs.gov/earthquakes/eventpage/us7000e54r/executive) from Sentinel-1 SAR data. It's used in the following paper:
+## 2021-Maduo-EQ
+
+This repo contains notebooks for the 3D co-seismic deformation of the 2021 Mw 7.4 Maduo earthquake in Qinghai, China ([USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us7000e54r/executive)) from Sentinel-1 SAR data. It's used in the following paper:
 
 + Xu, L., Yunjun, Z., Ji, C., Meng, L., Fielding, E. J., Zinke, R., & Bao, H. (2023). Understanding the rupture kinematics and slip model of the 2021 Mw 7.4 Maduo earthquake: A bilateral event on bifurcating faults. _Journal of Geophysical Research: Solid Earth, 128_(4), e2022JB025936, doi:[10.1029/2022JB025936](https://doi.org/10.1029/2022JB025936).
 
