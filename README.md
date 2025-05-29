@@ -8,6 +8,10 @@ This repo contains notebooks for the 3D co-seismic deformation of the 2021 Mw 7.
 
 + Xu, L., Yunjun, Z., Ji, C., Meng, L., Fielding, E. J., Zinke, R., & Bao, H. (2023). Understanding the rupture kinematics and slip model of the 2021 Mw 7.4 Maduo earthquake: A bilateral event on bifurcating faults. _Journal of Geophysical Research: Solid Earth, 128_(4), e2022JB025936, doi:[10.1029/2022JB025936](https://doi.org/10.1029/2022JB025936).
 
+![movie-s01](https://github.com/user-attachments/assets/db863b54-3d47-4d30-ab2b-bf2d1b3c37b5)
+
+![3d_defo](https://github.com/user-attachments/assets/4d470a30-d9fb-4a48-afea-0582957258b4)
+
 ### Data ([Zenodo](https://zenodo.org/record/7170329))
 
 Two pairs of Sentinel-1 SLCs (from ascending track 99 and descending track 106; both acquired at 20 - 26 May 2021) are used to derive the deformation in range and azimuth directions, using both InSAR and SAR speckle tracking techniques.
